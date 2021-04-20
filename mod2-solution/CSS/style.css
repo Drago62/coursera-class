@@ -1,0 +1,42 @@
+h1 {
+
+    color: black;
+    font-size: 200%;
+    text-align: center;
+
+}
+
+h2 {
+
+    text-align: center;
+    display: block;
+    border: 1px solid;
+    margin-left: 500px;
+
+}
+
+.chicken {
+
+    background-color: rosybrown;
+
+}
+
+.beaf {
+    
+    background-color: red;
+
+}
+
+.sushi {
+
+    background-color: tan;
+}
+
+section {
+
+    display: block;
+    border: 1px solid;
+    margin-block: 20px;
+    background-color: silver;
+
+}
