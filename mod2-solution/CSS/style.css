@@ -9,9 +9,9 @@ h1 {
 h2 {
 
     text-align: center;
-    display: block;
-    border: 1px solid;
-    margin-left: 500px;
+    border: 1px solid black;
+    margin: 0;
+    margin-left: 100px;
 
 }
 
@@ -30,13 +30,14 @@ h2 {
 .sushi {
 
     background-color: tan;
+
 }
 
-section {
+div .box {
 
-    display: block;
-    border: 1px solid;
-    margin-block: 20px;
-    background-color: silver;
-
+    border: 1px solid black;
+    margin: 40px;
+    width: 300px;
+    box-sizing: border-box;
+    
 }
